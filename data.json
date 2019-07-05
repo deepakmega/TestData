@@ -1,0 +1,88 @@
+{
+  "chargingStations": [
+      {
+        key: '1', title: 'Anandhi Power Inc.,',
+        description: 'PNS Layout, 2nd H Cross Rd, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043',
+        image_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq',
+        images: ['',''],
+        coordinate: {
+          latitude: 12.968293,
+          longitude: 77.602290,
+        },
+        area: 'Indranagar',
+        startTime: '09:00:00',
+        endTime: '22:00:00',
+        type: 'Company',
+        detail:{ name:'Aether',logo:''},
+        rating:{ count:12, value:4.5},
+        reviews:[],
+        chargers: [{key: '23', ratePerHour:4, watts: 2, name:'SAE Combo', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq'}]
+      },
+      {
+        key: '2',
+        title: 'Mahindra Electric Fast charger',
+        description: 'Unisys Global Services, Purva Premier, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025',
+        images: ['',''],
+        image_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq',
+        coordinate: {
+          latitude: 12.975959,
+          longitude: 77.603373,
+        },
+        area: 'Indranagar',
+        startTime: '09:00:00',
+        endTime: '22:00:00',
+        type: 'Private'  ,
+        rating:{ count:12, value:4.5},
+         detail:{ name:'Home1',logo:''},
+         reviews:[],
+        chargers: [{key: '23', ratePerHour:4, watts: 2, name:'SAE Combo', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq'}]
+      
+      },
+      {
+        key: '3', title: 'Ather Grid Charging Point',
+        description: '53, 100 Feet Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038',
+        images: ['',''],
+        image_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq',
+        coordinate: {
+          latitude: 12.958166,
+          longitude: 77.585979,
+        },
+        area: 'Indranagar',
+        startTime: '09:00:00',
+        endTime: '22:00:00',
+        type: 'Company'  ,
+        rating:{ count:12, value:4.5},
+         detail:{ name:'Aether',logo:''},
+         reviews:[],
+        chargers: [{key: '23', ratePerHour:4, watts: 2, name:'SAE Combo', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq'}]
+   
+      },
+      {
+        key: '4',
+        title: 'Ather Grid Charging Point',
+        description: ' 98/5, Davis Rd, Balaji Layout, Cooke Town, Bengaluru, Karnataka 560084',
+        images: ['',''],
+        image_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq',
+        coordinate: {
+          latitude: 12.977507,
+          longitude: 77.600630,
+        },
+        area: 'Indranagar',
+        startTime: '09:00:00',
+        endTime: '22:00:00',
+        type: 'Private',
+        rating:{ count:12, value:4.5},
+         detail:{ name:'Aether',logo:''},
+         reviews:[],
+        chargers: [{key: '23', ratePerHour:4, watts: 2, name:'SAE Combo', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq'}]
+
+      }
+    ],
+  "plugTypes": [
+  {key: '23', watts: 2, name:'SAE Combo', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq'},
+  {key: '24', watts: 23, name:'SAE Combo1', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq'}]
+  
+  ]
+  ,
+  "networks": [{"name": "typicode", "logo": "", image:"" }]
+}
