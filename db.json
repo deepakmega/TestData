@@ -94,7 +94,7 @@
 					"key": "23",
 					"ratePerHour": 4,
 					"watts": 2,
-					"name": "SAE Combo",
+					"name": "Tesla Type1",
 					"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq"
 				}
 			]
@@ -127,7 +127,7 @@
 					"key": "23",
 					"ratePerHour": 4,
 					"watts": 2,
-					"name": "SAE Combo",
+					"name": "Mahendra Type2",
 					"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq"
 				}
 			]
