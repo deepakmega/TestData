@@ -27,7 +27,7 @@
 				{
 					"key": "23",
 					"ratePerHour": 4,
-					"watts": 2,
+					"watts": 2.2,
 					"name": "SAE Combo",
 					"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq"
 				}
@@ -60,7 +60,7 @@
 				{
 					"key": "23",
 					"ratePerHour": 4,
-					"watts": 2,
+					"watts": 3.1,
 					"name": "SAE Combo",
 					"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq"
 				}
@@ -126,7 +126,7 @@
 				{
 					"key": "23",
 					"ratePerHour": 4,
-					"watts": 2,
+					"watts": 1.2,
 					"name": "Mahendra Type2",
 					"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSIaY1UCaTQ2pgCIlskJ4o8yOxZJjxQWc3UBGYW3c3y9IDicq"
 				}
