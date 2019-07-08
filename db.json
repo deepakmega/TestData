@@ -43,7 +43,7 @@
 				"latitude": 12.975959,
 				"longitude": 77.603373
 			},
-			"area": "Indranagar",
+			"area": "Bangalore",
 			"startTime": "09:00:00",
 			"endTime": "22:00:00",
 			"type": "Private",
@@ -76,7 +76,7 @@
 				"latitude": 12.958166,
 				"longitude": 77.585979
 			},
-			"area": "Indranagar",
+			"area": "Koramangala",
 			"startTime": "09:00:00",
 			"endTime": "22:00:00",
 			"type": "Company",
@@ -109,7 +109,7 @@
 				"latitude": 12.977507,
 				"longitude": 77.60063
 			},
-			"area": "Indranagar",
+			"area": "Shivajinagar",
 			"startTime": "09:00:00",
 			"endTime": "22:00:00",
 			"type": "Private",
